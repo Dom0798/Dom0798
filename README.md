@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working at Honeywell as a AI Engineer.
+- 🔭 I’m currently working at Honeywell as an AI Engineer.
 - 🌱 I’m currently learning cloud services such as AWS and MLOps tools such as MLFlow.
 
 ## Skills
@@ -39,5 +39,5 @@
 
 ## Connect
 <a href="https://linkedin.com/in/domenicomorales" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: domenicomorales-%2300ACEE.svg?color=405DE6&style=flat-square&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin: domenicomorales-%2300ACEE?color=405DE6&style=flat-square&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
